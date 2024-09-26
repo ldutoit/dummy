@@ -14,7 +14,7 @@ List:
 *This is italic text*
 
 ```
-This is code 
+This is code!
 ```
 
 This next r command <!--This is my deepest secret-->
@@ -23,3 +23,5 @@ This next r command <!--This is my deepest secret-->
 #R code
 data<-read.table("myfile.txt")
 ````
+
+some minor changes
